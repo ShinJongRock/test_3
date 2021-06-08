@@ -1,4 +1,4 @@
 # test_3
-clone
-commit
-push
+- clone
+- commit
+- push

@@ -12,3 +12,5 @@
 ㅇㅅㅇ
 
 -commit
+
+-push
